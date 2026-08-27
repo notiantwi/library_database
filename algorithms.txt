@@ -1,0 +1,5 @@
+Add Books
+-create a list to input book titles
+-ask user for title of book, author name, and whether the book is available 
+-enter the users input into the list of dictionaries
+-print a confirmatory message
