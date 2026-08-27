@@ -3,3 +3,9 @@ Add Books
 -ask user for title of book, author name, and whether the book is available 
 -enter the users input into the list of dictionaries
 -print a confirmatory message
+
+All Books
+-Iterate over items in list
+-print each item in list
+-number items in list staring from one
+
