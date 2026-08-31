@@ -76,6 +76,7 @@ def main ():
     2. View All Books
     3. Search For A Book
     4. Borrow Book
+    5. Return Book
     0. Exit
     """
     while True:
@@ -97,6 +98,10 @@ def main ():
         elif choice == "4":
             print()
             borrowbook()
+
+        elif choice == "5":
+            print()
+            returnbook()
 
         elif choice in ["0", "exit"]:
             print()
